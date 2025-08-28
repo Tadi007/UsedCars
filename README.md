@@ -16,3 +16,9 @@ retain value better.
 informed decisions in the second-hand automobile market. 
 5. Build a foundation for predictive modeling, where machine learning could eventually 
 estimate resale prices based on car specifications.
+
+# Dataset
+The dataset contains detailed information on used cars, including their specifications and resale 
+pricing details. The dataset consists of approximately 8,015 rows and 9 columns, covering a 
+diverse range of vehicles such as hatchbacks, sedans, SUVs, luxury SUVs, and luxury 
+sedans.
