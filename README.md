@@ -1,3 +1,4 @@
+This project consists of a little help from kaggle and few ideas from gpt
 # Overview
 
 This repo presents an exploratory data analysis (EDA) using Python of the Cars24 resale 
